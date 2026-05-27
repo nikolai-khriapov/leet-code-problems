@@ -29,5 +29,5 @@ class Solution {
     }
 }
 
-// time  - O(n log m)
+// time  - O(m log m)
 // space - O(n)
