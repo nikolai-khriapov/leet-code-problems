@@ -188,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1657-determine-if-two-strings-are-close](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1657-determine-if-two-strings-are-close) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1873-longest-nice-substring](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1873-longest-nice-substring) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1646-kth-missing-positive-number](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1646-kth-missing-positive-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1755-defuse-the-bomb](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1657-determine-if-two-strings-are-close) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1798-max-number-of-k-sum-pairs) |
