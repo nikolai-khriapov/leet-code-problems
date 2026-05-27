@@ -45,3 +45,6 @@ class Solution {
         return cell[0] == 0 || cell[0] == maze.length - 1 || cell[1] == 0 || cell[1] == maze[0].length - 1;
     }
 }
+
+// time  - O(n * m)
+// space - O(n * m)
