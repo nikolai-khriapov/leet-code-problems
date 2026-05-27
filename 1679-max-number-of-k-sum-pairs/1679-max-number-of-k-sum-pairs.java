@@ -27,5 +27,5 @@ class Solution {
     }
 }
 
-// time  - O(n)
+// time  - O(n * log n)
 // space - O(1)
