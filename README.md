@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1397-search-suggestions-system](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1397-search-suggestions-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1657-determine-if-two-strings-are-close](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1666-make-the-string-great](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1666-make-the-string-great) |
 | [1764-maximum-repeating-substring](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1764-maximum-repeating-substring) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1777-determine-if-two-strings-are-close) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1657-determine-if-two-strings-are-close](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1873-longest-nice-substring](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1873-longest-nice-substring) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -935,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/0594-longest-harmonious-subsequence) |
+| [1657-determine-if-two-strings-are-close](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1657-determine-if-two-strings-are-close) |
 | [1777-determine-if-two-strings-are-close](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
