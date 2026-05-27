@@ -457,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2038-nearest-exit-from-entrance-in-maze](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/2428-equal-row-and-column-pairs) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -515,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/2553-total-cost-to-hire-k-workers) |
 ## String Matching
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Sorting
 |  |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2636-maximum-subsequence-score](https://github.com/NikolaiKhriapov/leet-code-problems/tree/master/2636-maximum-subsequence-score) |
 ## Tree
